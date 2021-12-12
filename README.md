@@ -1,4 +1,6 @@
 # RosewellOS
+
+Current Rosewell OS: V1.3.5
 The official Rosewell Operating System! Created by Blake Gouthro And JinHo Mo.
 
 The Demo Version has been attached
