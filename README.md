@@ -1,16 +1,16 @@
 # RosewellOS
 © Blake Gouthro and JinHo Mo | Rosewell OS | V1.3.5 | Rosewell Software ©
 
-
 Current Rosewell OS: V1.3.5
+
+THE FULL RELEASE IS HERE!
+
 
 The official Rosewell Operating System! Created by Blake Gouthro And JinHo Mo.
 
 Rosewell OS Was created as an Operating System where the User can ask the OS what the user wants to do.
 
 The Demo Version has been attached
-
-The Full Release is still in beta so it won't be uploaded for a little bit
 
 There is a recreation of an old Operating System Called BASIC.
 it wwill be using python syntax for now, but i call it Rosewell BASIC.
