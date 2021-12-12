@@ -1,6 +1,8 @@
 # RosewellOS
 © Blake Gouthro and JinHo Mo | Rosewell OS | V1.3.5 | Rosewell Software ©
 
+Rosewell OS was created on Nov. 9th 2021
+
 Current Rosewell OS: V1.3.5
 
 THE FULL RELEASE IS HERE!
