@@ -20,3 +20,9 @@ it wwill be using python syntax for now, but i call it Rosewell BASIC.
 The Instruction Video can be downloaded from The Releases Tab, or go to the Youtube Video Here: https://www.youtube.com/watch?v=29NioSLF98g
 
 Rosewell BASIC's own Repository is linked here: https://github.com/RosewellSoftware/RosewellBASIC
+
+-----Update/Patch Notes-----
+
+This Update includes;
+
+*Brewing Coffee For Next Update.....*
