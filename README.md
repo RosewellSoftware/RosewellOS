@@ -1,12 +1,13 @@
 # RosewellOS
-© Blake Gouthro and JinHo Mo | Rosewell OS | V1.3.5 | Rosewell Software ©
+© Blake Gouthro and JinHo Mo | Rosewell OS | V1.3.7 | Rosewell Software ©
 
 Rosewell OS was created on Nov. 9th 2021
 
-Current Rosewell OS: V1.3.5
+Current Rosewell OS: V1.3.7
 
 THE FULL RELEASE IS HERE!
 
+Rosewell Video App is now in devolpment
 
 The official Rosewell Operating System! Created by Blake Gouthro And JinHo Mo.
 
@@ -24,5 +25,7 @@ Rosewell BASIC's own Repository is linked here: https://github.com/RosewellSoftw
 -----Update/Patch Notes-----
 
 This Update includes;
+
+--*ShotPut*-- Added the Shot Put Game to Rosewell OS
 
 *Brewing Coffee For Next Update.....*
