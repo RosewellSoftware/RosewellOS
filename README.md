@@ -1,9 +1,9 @@
 # RosewellOS
-© Blake Gouthro and JinHo Mo | Rosewell OS | V1.4 | Rosewell Software ©
+© Blake Gouthro and JinHo Mo | Rosewell OS | V1.4.3 | Rosewell Software ©
 
 Rosewell OS was created on Nov. 9th 2021
 
-Current Rosewell OS: V1.4
+Current Rosewell OS: V1.4.3
 
 THE FULL RELEASE IS HERE!
 
@@ -30,8 +30,10 @@ Updated Manual Coming Soon......
 
 This Update Adds;
 
---*Updated BASIC DEMO*-- The included BASIC DEMO has been updated
+--*Solitare*-- Adds a new Solitare Game
 
---*Unix Executable File*-- A New Unix Executable file has been included
+--*Bug Fixes*-- Fixes Bugs
+
+--*Typo Fixes*-- Fixes Typos
 
 *Brewing Coffee For Next Update.....*
