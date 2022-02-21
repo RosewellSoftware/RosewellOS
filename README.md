@@ -5,8 +5,6 @@ Rosewell OS was created on Nov. 9th 2021
 
 Current Rosewell OS: V1.4.5
 
-THE FULL RELEASE IS HERE!
-
 Rosewell Video App is now in devolpment
 
 The official Rosewell Operating System! Created by Blake Gouthro And JinHo Mo.
