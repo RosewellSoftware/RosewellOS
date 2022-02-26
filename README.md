@@ -3,7 +3,7 @@
 
 Rosewell OS was created on Nov. 9th 2021
 
-Current Rosewell OS: V1.4.5
+Official Seal of Quality will come with all New Software Releases starting with V1.4.5
 
 Rosewell Video App is now in devolpment
 
