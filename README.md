@@ -3,6 +3,10 @@
 
 Rosewell OS was created on Nov. 9th 2021
 
+Check out the new Website!
+
+https://rosewellsoftware.wixsite.com/rosewellsoftware
+
 Official Seal of Quality will come with all New Software Releases starting with V1.4.5
 
 Rosewell Video App is now in devolpment
